@@ -1,0 +1,23 @@
+SAFE TO DELETE:
+- docs/IMPLEMENTATION_PLAN.md
+- docs/BlackBox_SIH26189_BUILD_PLAN.md
+- ./BlackBox_SIH26189_BUILD_PLAN.md
+
+KEEP:
+- docs/FINAL_IMPLEMENTATION_PLAN.md
+- docs/ARCHITECTURE.md
+- docs/product.md
+- docs/ADVERSARIAL_TEST_PLAN.md
+- docs/EVALUATION_HARNESS_PLAN.md
+- docs/VALIDATION_COMMANDS.md
+- docs/README.md
+- docs/SRS.md
+- docs/ROADMAP.md
+- docs/CLAUDE.md
+
+ARCHIVE:
+- docs/WINNING_PLAN.md
+- docs/STRATEGY_REPORT.md
+
+UNCERTAIN:
+- (none)
